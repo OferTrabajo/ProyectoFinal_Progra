@@ -128,5 +128,3 @@ El archivo `creditcard.csv` debe descargarse manualmente desde Kaggle, ya que no
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
-
-¡Gracias por usar este proyecto! Si tienes dudas adicionales, revisa la documentación dentro de cada notebook o abre un “issue” en el repositorio.
