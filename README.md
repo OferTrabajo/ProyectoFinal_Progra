@@ -20,7 +20,7 @@ ProyectoFinal_Progra/
 ├─ modelo_2.ipynb
 ├─ preprocesado.ipynb
 ├─ dataset_preprocesado.csv
-└─ README.md  (este archivo)
+└─ README.md 
 ```
 
 - `exploracion.ipynb`: Notebook con el análisis exploratorio de datos.
