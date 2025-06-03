@@ -177,19 +177,4 @@ seaborn==0.12.2
 notebook==6.5.2
 ```
 
-Opcionalmente, si deseas trabajar con JupyterLab:
-```
-jupyterlab==4.0.0
-```
 
----
-
-## Notas finales y sugerencias
-- **Interpretabilidad vs. desempeño**: Si necesitas justificar cada predicción, utiliza Regresión Logística (coeficientes lineales fáciles de interpretar). Si tu prioridad es maximizar AUC y precisión, elige Random Forest.  
-- **Mejoras futuras**:
-  - Probar otros algoritmos de boosting (XGBoost, LightGBM).  
-  - Realizar un ensamble (stacking) de múltiples clasificadores.  
-  - Analizar la importancia de variables (`feature_importances_`) en Random Forest para detectar patrones específicos de fraude.  
-  - Ajustar umbrales de decisión en función del costo de falsos positivos vs. falsos negativos.  
-
-¡Éxito en tu proyecto y en tus análisis!
